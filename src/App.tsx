@@ -3,12 +3,10 @@ import { motion, AnimatePresence } from "motion/react";
 import { Navbar } from "./components/Navbar";
 import { Home } from "./components/Home";
 import { About } from "./components/About";
-import { Invest } from "./components/Invest";
+import Invest from "./components/Invest";
 import { HowItWorks } from "./components/HowItWorks";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
-import { ArrowUp } from "lucide-react";
-
 import { ArrowUp } from "lucide-react";
 
 export default function App() {
