@@ -9,6 +9,8 @@ import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import { ArrowUp } from "lucide-react";
 
+import { ArrowUp } from "lucide-react";
+
 export default function App() {
   const [currentPage, setCurrentPage] = useState("home");
   const [showScrollTop, setShowScrollTop] = useState(false);
