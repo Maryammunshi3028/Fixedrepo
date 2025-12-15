@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Menu, X, ChevronDown } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
-import logoImage from 'figma:asset/22cb1d14f57fccf95403b98dba3886173e1f8e3e.png';
+import logoImage from '../assets/logo.svg';
 
 interface NavbarProps {
   currentPage: string;
