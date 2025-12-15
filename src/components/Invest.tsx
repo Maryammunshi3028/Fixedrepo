@@ -15,7 +15,7 @@ import {
   Users,
 } from 'lucide-react';
 
-export function Invest() {
+import Invest from "./components/Invest";
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [hoveredCard, setHoveredCard] = useState<number | null>(null);
 
