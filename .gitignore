@@ -78,8 +78,8 @@ web_modules/
 .next
 out
 
-# Nuxt.js build / generate output
-.nuxt
+# Vite build output
+build
 dist
 
 # Gatsby files
