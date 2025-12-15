@@ -1,13 +1,13 @@
 import { motion } from 'motion/react';
 import { Target, Eye, Heart, Award, Users, Globe, TrendingUp, Shield, Briefcase, Scale, BarChart, Code, DollarSign, Building2, CheckCircle2, Rocket } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import founderImage from 'figma:asset/d6e489760bee7094d058709977f3ad2051251e86.png';
-import shariaAdvisorImage from 'figma:asset/ac24a96a1b5920ec6f9c7be32ffdfc168abaedd5.png';
-import businessAnalystImage from 'figma:asset/5f8caf64ef4b3463e5000853feaff0cc7f4d5200.png';
-import engineerImage1 from 'figma:asset/ee1013ade33029277d774c9a306bf14696c1bd06.png';
-import engineerImage2 from 'figma:asset/d451e6e49c2813b45cbb28596d902e73809e07b6.png';
-import engineerImage3 from 'figma:asset/e00a7703f818a3e3f25d26bb2d0f7622bba657fa.png';
-import tractionImage from 'figma:asset/5f8caf64ef4b3463e5000853feaff0cc7f4d5200.png';
+import founderImage from '../assets/d6e489760bee7094d058709977f3ad2051251e86.png';
+import shariaAdvisorImage from '../assets/ac24a96a1b5920ec6f9c7be32ffdfc168abaedd5.png';
+import businessAnalystImage from '../assets/5f8caf64ef4b3463e5000853feaff0cc7f4d5200.png';
+import engineerImage1 from '../assets/ee1013ade33029277d774c9a306bf14696c1bd06.png';
+import engineerImage2 from '../assets/d451e6e49c2813b45cbb28596d902e73809e07b6.png';
+import engineerImage3 from '../assets/e00a7703f818a3e3f25d26bb2d0f7622bba657fa.png';
+import tractionImage from '../assets/5f8caf64ef4b3463e5000853feaff0cc7f4d5200.png';
 
 export function About() {
   const timeline = [

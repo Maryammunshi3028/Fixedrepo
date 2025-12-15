@@ -22,7 +22,7 @@ import {
   Wallet,
   Rocket,
 } from 'lucide-react';
-import mobileScreenImage from 'figma:asset/49d1c5c254906dd0fb5f62845e7fdaf87c1a95d9.png';
+import mobileScreenImage from '../assets/49d1c5c254906dd0fb5f62845e7fdaf87c1a95d9.png';
 import { FeatureModal } from './FeatureModal';
 import { PricingModal } from './PricingModal';
 
